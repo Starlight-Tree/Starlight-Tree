@@ -1,6 +1,6 @@
 # Starlight-Tree
 
-FastAPI・Next.js・Postgres で Web アプリを作っています。画面から API・DB・テストまで一続きで作り、設計の判断は文書（ADR）に残しています。
+FastAPI・Next.js・Postgres で Web アプリを作っています。
 
 ## 作品
 
@@ -14,8 +14,11 @@ FastAPI・Next.js・Postgres で Web アプリを作っています。画面か�
 
 詳しい設計・実行方法・テストは、各リポジトリの README にあります。
 
-## 資格・学習
+## 資格（合格）
 
 - JDLA Deep Learning for ENGINEER 2024 #2
 - JDLA Deep Learning for GENERAL 2024 #1
+
+## 学習
+
 - [Kaggle](https://github.com/Starlight-Tree/kaggle)・[Nishika](https://github.com/Starlight-Tree/nishika) のコンペの記録
