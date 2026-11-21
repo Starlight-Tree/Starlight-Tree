@@ -1,24 +1,26 @@
 # Starlight-Tree
 
-FastAPI・Next.js・Postgres で Web アプリを作っています。
+English | [日本語](README.ja.md)
 
-## 作品
+I build web apps with FastAPI, Next.js and Postgres.
 
-3 つとも、舞台は架空の世界（惑星ザーハード）のデモです。実在の店・人・文書は使っていません。
+## Projects
 
-| 作品 | 内容 | 主な技術 |
+All three are demos set in a fictional world (the planet Zahard). No real shops, people or documents are used.
+
+| Project | What it is | Main tech |
 |---|---|---|
-| [DocuNavi](https://github.com/Starlight-Tree/DocuNavi) | PDF の文書から、出典つきで答える RAG チャットボット | FastAPI・LangGraph・Gemini・pgvector・Next.js |
-| [JobNavi](https://github.com/Starlight-Tree/JobNavi) | 植物園の求人サイト | FastAPI・Next.js・Postgres |
-| [ShopOrder](https://github.com/Starlight-Tree/ShopOrder) | 画面での注文・宅配・売上と在庫の分析まで通る注文アプリ（チャットでの手配は未実装） | FastAPI・Next.js・TypeScript・Postgres・Docker Compose |
+| [DocuNavi](https://github.com/Starlight-Tree/DocuNavi) | A RAG chatbot that answers from PDF documents and cites its sources | FastAPI, LangGraph, Gemini, pgvector, Next.js |
+| [JobNavi](https://github.com/Starlight-Tree/JobNavi) | A job board for botanical gardens | FastAPI, Next.js, Postgres |
+| [ShopOrder](https://github.com/Starlight-Tree/ShopOrder) | An ordering app with store pickup, delivery, and sales and stock analytics (chat ordering is backend-only so far) | FastAPI, Next.js, TypeScript, Postgres, Docker Compose |
 
-詳しい設計・実行方法・テストは、各リポジトリの README にあります。
+Design, setup and tests are in each repository's README.
 
-## 資格（合格）
+## Certifications
 
 - JDLA Deep Learning for ENGINEER 2024 #2
 - JDLA Deep Learning for GENERAL 2024 #1
 
-## 学習
+## Learning
 
-- [Kaggle](https://github.com/Starlight-Tree/kaggle)・[Nishika](https://github.com/Starlight-Tree/nishika) のコンペの記録
+- Competition notes: [Kaggle](https://github.com/Starlight-Tree/kaggle), [Nishika](https://github.com/Starlight-Tree/nishika)
