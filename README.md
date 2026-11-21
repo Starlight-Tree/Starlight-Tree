@@ -14,8 +14,6 @@ All three are demos set in a fictional world (the planet Zahard). No real shops,
 | [JobNavi](https://github.com/Starlight-Tree/JobNavi) | A job board for botanical gardens | FastAPI, Next.js, Postgres |
 | [ShopOrder](https://github.com/Starlight-Tree/ShopOrder) | An ordering app with store pickup, delivery, and sales and stock analytics (chat ordering is backend-only so far) | FastAPI, Next.js, TypeScript, Postgres, Docker Compose |
 
-Design, setup and tests are in each repository's README.
-
 ## Certifications
 
 - JDLA Deep Learning for ENGINEER 2024 #2

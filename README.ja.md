@@ -14,8 +14,6 @@ FastAPI・Next.js・Postgres で Web アプリを作っています。
 | [JobNavi](https://github.com/Starlight-Tree/JobNavi) | 植物園の求人サイト | FastAPI・Next.js・Postgres |
 | [ShopOrder](https://github.com/Starlight-Tree/ShopOrder) | 店頭受け取り・宅配の注文と、売上・在庫の分析のアプリ（チャットでの手配は、今のところバックエンドだけ） | FastAPI・Next.js・TypeScript・Postgres・Docker Compose |
 
-詳しい設計・実行方法・テストは、各リポジトリの README にあります。
-
 ## Certifications
 
 - JDLA Deep Learning for ENGINEER 2024 #2
