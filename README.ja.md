@@ -4,11 +4,11 @@
 
 FastAPI・Next.js・Postgres で Web アプリを作っています。
 
-## 制作物
+## プロジェクト
 
-3 つとも、舞台は架空の世界（惑星ザーハード）のデモです。実在の店・人・文書は使っていません。
+3 つとも、舞台は架空の世界（惑星ザーハード）のデモです。
 
-| 作品 | 内容 | 主な技術 |
+| プロジェクト | 内容 | 主な技術 |
 |---|---|---|
 | [DocuNavi](https://github.com/Starlight-Tree/DocuNavi) | PDF の文書から、出典つきで答える RAG チャットボット | FastAPI・LangGraph・Gemini・pgvector・Next.js |
 | [JobNavi](https://github.com/Starlight-Tree/JobNavi) | 植物園の求人サイト | FastAPI・Next.js・Postgres |

@@ -6,7 +6,7 @@ I build web apps with FastAPI, Next.js and Postgres.
 
 ## Projects
 
-All three are demos set in a fictional world (the planet Zahard). No real shops, people or documents are used.
+All three are demos set in a fictional world (the planet Zahard).
 
 | Project | What it is | Main tech |
 |---|---|---|
