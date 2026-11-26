@@ -19,7 +19,7 @@ DocuNavi, JobNavi and ShopOrder are demos set in a fictional world (the planet Z
 
 - JDLA Deep Learning for ENGINEER 2024 #2
 - JDLA Deep Learning for GENERAL 2024 #1
-- JDLA Generative AI Test 2024
+- JDLA Generative AI Test 2024 #2
 
 ## Learning
 

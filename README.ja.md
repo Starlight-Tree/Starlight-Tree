@@ -19,7 +19,7 @@ DocuNavi・JobNavi・ShopOrder は、舞台が架空の世界（惑星ザーハ�
 
 - JDLA Deep Learning for ENGINEER 2024 #2
 - JDLA Deep Learning for GENERAL 2024 #1
-- JDLA Generative AI Test 2024
+- JDLA Generative AI Test 2024 #2
 
 ## 学習
 
