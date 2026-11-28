@@ -14,6 +14,7 @@ DocuNavi・JobNavi・ShopOrder は、舞台が架空の世界（惑星ザーハ�
 | [JobNavi](https://github.com/Starlight-Tree/JobNavi) | 植物園の求人サイト | Go・Next.js・Postgres |
 | [ShopOrder](https://github.com/Starlight-Tree/ShopOrder) | 店頭受け取り・宅配の注文と、売上・在庫の分析のアプリ（チャットでの手配は、今のところバックエンドだけ） | Go・Next.js・TypeScript・Postgres・Docker Compose |
 | [TownScan](https://github.com/Starlight-Tree/TownScan) | 2014 年と 2024 年の空中写真からパリ近郊の新築の候補を見つけ、会話で調べるアプリ（ローカルで動くたたき台。精度は未測定） | Go・Next.js・Postgres・Gemini・Python（建物の抽出） |
+| [TrendScan](https://github.com/Starlight-Tree/TrendScan) | IT エンジニア向けの技術トレンドを集めてまとめる、1 ページのサイト（ランキングの点数は仮の値） | HTML・CSS・JavaScript |
 
 ## 資格
 
